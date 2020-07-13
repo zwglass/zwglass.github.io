@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{F56q:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n.n(a),l=n("9qUX"),u=n("m7Th"),c=n("vrFN");t.default=function(){return r.a.createElement(l.a,null,r.a.createElement(c.a,{title:"Customer"}),r.a.createElement(u.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-customers-js-b301e18f7b8f217e9c81.js.map
